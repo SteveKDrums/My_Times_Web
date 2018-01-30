@@ -67,19 +67,23 @@ body, html {
 }
 .mother h2 {
   background-image: url("resources/images/img-story-main.png");
+  background-repeat: repeat-x;
   height: 300px;
   font-size: 40px;
 }
 .earth h2 {
   background-image: url("resources/images/img-story-2.png");
+  background-repeat: repeat-x;
   height: 300px;
 }
 .research h2 {
   background-image: url("resources/images/img-story-3.png");
+  background-repeat: repeat-x;
   height: 300px;
 }
 .cats h2 {
   background-image: url("resources/images/img-story-1.png");
+  background-repeat: repeat-x;
   height: 300px;
 }
 .columns .medium {
